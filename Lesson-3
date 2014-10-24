@@ -1,0 +1,7 @@
+Lesson 3
+- How to use github.
+- Setup remote repository using 
+    # git remote
+    #git remote origin git:url
+-Sync local repository to remote
+   #git push
