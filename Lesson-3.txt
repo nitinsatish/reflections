@@ -17,3 +17,6 @@ Describe the differences between forks, clones, and branches. When would you use
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
  - See how much current state is diverging from the remote copy even without internet access.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+  There might be bug fixes you might need to work on main develpoment tree even while working on new features. 
