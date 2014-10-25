@@ -14,3 +14,6 @@ Describe the differences between forks, clones, and branches. When would you use
  Clone - Make a copy of the repository. Another user's repository or on a different system.
 
  Branch - When you want to work on experimental feature, which might mess up main branch.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+ - See how much current state is diverging from the remote copy even without internet access.
