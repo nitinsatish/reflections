@@ -5,3 +5,12 @@ Lesson 3
     #git remote origin git:url
 -Sync local repository to remote
    #git push
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+  - We should be having better idea of how our project is going. Which of the files are cpmplete.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+ Fork - Tool provided by github.
+      - Clone the repository on github under your user.
+ Clone - Make a copy of the repository. Another user's repository or on a different system.
+
+ Branch - When you want to work on experimental feature, which might mess up main branch.
